@@ -137,7 +137,7 @@ h1 {
 }
 
 .button.primary {
-  background: linear-gradient(135deg, #b4533b, #8b5cf6);
+  background: linear-gradient(135deg, #f33709, #8b5cf6);
   color: white;
   box-shadow: 0 15px 30px rgba(124, 58, 237, 0.3);
 }
@@ -165,7 +165,7 @@ h1 {
 }
 
 .hero-card {
-  background: rgba(38, 31, 29, 0.92);
+  background: rgba(24, 22, 22, 0.479);
   border: 1px solid rgba(255, 255, 255, 0.12);
   border-radius: 28px;
   box-shadow: 0 18px 40px rgba(0, 0, 0, 0.28);
